@@ -1,0 +1,39 @@
+
+   
+  img {
+    margin: 10px auto;
+    width: 300px;
+    height: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 50%;
+    object-fit: cover;}
+  
+    
+    
+    
+  
+  .intro{
+    color: #000000;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    text-align: center;
+    background-color: rgb(231, 133, 14);
+  
+    
+  } 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .footer-class{
+    padding-top: 30px;
+  text-align: center;
+  background-color: rgb(231, 133, 14);}
+  
